@@ -3,7 +3,7 @@ My final project proposal for Programming for Digital Arts
 # Title
 Choose Your Own Adventure!
 ## Repository
-<Link to your project's public GitHub respository>
+<https://github.com/bhk210000/final-project-proposal.git>
 
 ## Description
 This project will be a Choose Your Own Adventure styled game. The outcome of the adventure will change depending on
